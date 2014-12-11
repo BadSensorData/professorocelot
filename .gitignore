@@ -1,0 +1,6 @@
+*.DS_Store
+.sass-cache
+config.codekit
+
+_source/
+_archive/
